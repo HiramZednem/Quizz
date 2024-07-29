@@ -6,7 +6,7 @@ export class Pooler{
         user: "root",
         password: "root",
         port: 3306,
-        database: "employees_exe"
+        database: "quizz_database"
     };
     
     //Ahora esta variable importala en rutas
